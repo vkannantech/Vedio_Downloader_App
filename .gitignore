@@ -44,7 +44,9 @@ migrate_working_dir/
 **/android/local.properties
 **/android/*.jks
 **/android/*.keystore
-**/android/jdk*/
+**/android/*.keystore
+**/android/jdk*
+*.zip
 def-build-config/
 
 # iOS
