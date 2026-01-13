@@ -1,0 +1,23 @@
+Analyzing clivon...                                             
+
+warning - Unused import: '../../features/downloads/data/sources/native_downloader.dart' - lib\core\di\app_init_provider.dart:3:8 - unused_import
+   info - Statements in an if should be enclosed in a block - lib\features\downloads\domain\logic\queue_engine.dart:51:35 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\downloads\domain\logic\queue_engine.dart:52:37 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\downloads\domain\logic\queue_engine.dart:53:39 - curly_braces_in_flow_control_structures
+warning - The value of the local variable 'parts' isn't used - lib\features\downloads\domain\logic\queue_engine.dart:68:18 - unused_local_variable
+  error - The method 'updateStats' isn't defined for the type 'IDownloadRepository' - lib\features\downloads\domain\logic\queue_engine.dart:87:20 - undefined_method
+warning - Unused import: 'core/di/logic_provider.dart' - lib\main.dart:4:8 - unused_import
+warning - Unused import: 'core/di/database_provider.dart' - lib\main.dart:5:8 - unused_import
+warning - The declaration '_audioFormats' isn't referenced - lib\ui\home\download_config_dialog.dart:38:25 - unused_element
+warning - The '!' will have no effect because the receiver can't be null - lib\ui\home\home_screen.dart:131:56 - unnecessary_non_null_assertion
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\home\home_screen.dart:279:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\home\home_screen.dart:279:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\home\home_screen.dart:286:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\home\home_screen.dart:297:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\home\home_screen.dart:319:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\home\home_screen.dart:339:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\home\home_screen.dart:344:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\library\library_screen.dart:101:32 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\main_screen.dart:38:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\main_screen.dart:55:35 - deprecated_member_use
+
